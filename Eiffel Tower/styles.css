@@ -52,7 +52,7 @@ img
 .list
 {
     color:#333300;
-    font-size: 300px;
+	font-size: 18px;
 }
 
 #right-column 
@@ -61,4 +61,7 @@ img
 	width: 350px;
  	text-align: left;
 }
+
+#right-column h2 {font-size: 1.2rem; font-weight: bold;}
+
 
